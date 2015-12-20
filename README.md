@@ -6,7 +6,7 @@ This program pretends that it is spamming on a QWERTY keyboard and rather than c
 Aka: pressing keys directly after eachother on the keyboard, going backwards randomly, swiping, going down rows (going diagonally) of the QWERTY keyboard, etc.
 
 Build 2:
-![](blob:http%3A//pasteboard.co/ed9116c7-8786-4775-994b-7912177cc11d)
+![](https://cdn.pbrd.co/images/bgGsj0I.png)
 
 Build 1:
-![](https://cdn.pbrd.co/images/bgGsj0I.png)
+![](https://cdn.pbrd.co/images/bgL0owT.png)
